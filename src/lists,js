@@ -1,0 +1,10 @@
+function Hello(){
+    return(
+        <ol>
+            <li>hTML</li>
+            <li>CSS</li>
+            <li>JAVAsCRIPT</li>
+        </ol>
+    )
+}
+export default Hello;
